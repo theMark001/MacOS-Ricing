@@ -1,0 +1,2 @@
+# disable auto window managing
+yabai -m config auto_manage off
