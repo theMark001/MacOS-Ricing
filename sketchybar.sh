@@ -2,6 +2,7 @@
 
 # Settings
 # System Settings -> Control Centre -> Automatically hide and show the menu bar -> Always
+# System Settings -> Desktop & Dock -> Automatically hide and show the Dock -> On
 
 # Add Homebrew’s shell environment initialization
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
