@@ -17,8 +17,8 @@ chmod +x ~/Downloads/MacOS-Ricing/sketchybar.sh
 chmod +x ~/Downloads/MacOS-Ricing/skhd.sh 
 chmod +x ~/Downloads/MacOS-Ricing/yabai.sh
 
-# bash loop.sh
-# bash raycast.sh
-bash sketchybar.sh
-# bash skhd.sh
-# bash yabai.sh
+# bash ~/Downloads/MacOS-Ricing/loop.sh
+# bash ~/Downloads/MacOS-Ricing/raycast.sh
+bash ~/Downloads/MacOS-Ricing/sketchybar.sh
+# bash ~/Downloads/MacOS-Ricing/skhd.sh
+# bash ~/Downloads/MacOS-Ricing/yabai.sh
