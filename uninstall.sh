@@ -3,7 +3,6 @@
 #!/bin/bash
 
 brew uninstall loop
-brew untap FelixKratz/formulae
 brew uninstall sketchybar
 brew uninstall jq
 brew uninstall lua
@@ -14,6 +13,7 @@ brew uninstall --cask font-sf-mono
 brew uninstall --cask font-sf-pro
 brew uninstall skhd
 brew uninstall yabai
+brew untap FelixKratz/formulae
 
 rm -rf "$HOME/Library/Fonts/sketchybar-app-font.ttf"
 rm -rf ~/Downloads/MacOS-Ricing
