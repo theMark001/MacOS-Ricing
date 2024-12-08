@@ -27,6 +27,6 @@ chmod +x ~/Downloads/MacOS-Ricing/yabai.sh
 # Run files
 bash ~/Downloads/MacOS-Ricing/loop.sh
 bash ~/Downloads/MacOS-Ricing/raycast.sh
-# bash ~/Downloads/MacOS-Ricing/sketchybar.sh
+bash ~/Downloads/MacOS-Ricing/sketchybar.sh
 bash ~/Downloads/MacOS-Ricing/skhd.sh
 bash ~/Downloads/MacOS-Ricing/yabai.sh
