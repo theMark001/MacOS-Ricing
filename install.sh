@@ -25,8 +25,22 @@ chmod +x ~/Downloads/MacOS-Ricing/skhd.sh
 chmod +x ~/Downloads/MacOS-Ricing/yabai.sh
 
 # Run files
+RED='\033[0;31m'
+RESET='\033[0m'
+
+echo -e "${RED}Installing Loop...${RESET}"
 bash ~/Downloads/MacOS-Ricing/loop.sh
+
+echo -e "${RED}Installing Raycast...${RESET}"
 bash ~/Downloads/MacOS-Ricing/raycast.sh
+
+echo -e "${RED}Installing SketchyBar...${RESET}"
 bash ~/Downloads/MacOS-Ricing/sketchybar.sh
+
+echo -e "${RED}Installing SKHD...${RESET}"
 bash ~/Downloads/MacOS-Ricing/skhd.sh
+
+echo -e "${RED}Installing Yabai...${RESET}"
 bash ~/Downloads/MacOS-Ricing/yabai.sh
+
+echo -e "${RED}All installations are complete!${RESET}"
