@@ -22,17 +22,17 @@ sudo curl -L https://github.com/theMark001/MacOS-Ricing/raw/refs/heads/main/inst
 ```
 
 # Loop Settings
-# Open Loop -> Accent Colour -> Wallpaper -> Gradient -> On
-# Open Loop -> Behaviour -> Launch at login -> On
-# Open Loop -> Behaviour -> Animation speed -> Smooth
-# Open Loop -> Behaviour -> Include padding -> On -> Configure padding -> 7px
-# Open Loop -> Behaviour -> Use screen with cursor -> Off
-# Open Loop -> Keybindings -> Centre -> Remove
-# Open Loop -> Keybindings -> Add -> General -> MacOS Centre -> Fn + Eneter
+1.  Open Loop -> Accent Colour -> Wallpaper -> Gradient -> On  
+2.  Open Loop -> Behaviour -> Launch at login -> On  
+3.  Open Loop -> Behaviour -> Animation speed -> Smooth  
+4.  Open Loop -> Behaviour -> Include padding -> On -> Configure padding -> 7px  
+5.  Open Loop -> Behaviour -> Use screen with cursor -> Off  
+6.  Open Loop -> Keybindings -> Centre -> Remove  
+7.  Open Loop -> Keybindings -> Add -> General -> macOS Centre -> Fn + Enter  
 
 # Raycast Settings
-# Google -> raycast.com -> Download for Mac
-# Open Raycast -> Start Setup -> Continue -> Record New Hotkey -> Cmd + Space -> Continue
+1. Google -> raycast.com -> Download for Mac
+2. Open Raycast -> Start Setup -> Continue -> Record New Hotkey -> Cmd + Space -> Continue
 
 
 
