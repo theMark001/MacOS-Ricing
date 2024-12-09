@@ -35,15 +35,14 @@ echo -e "${RED}Installing Raycast...${RESET}"
 bash ~/Downloads/MacOS-Ricing/raycast.sh
 
 echo -e "${RED}Installing SketchyBar...${RESET}"
-bash ~/Downloads/MacOS-Ricing/sketchybar.sh || { echo "Error installing SketchyBar"; exit 1; }
-sleep 5
+bash ~/Downloads/MacOS-Ricing/sketchybar.sh &
 
 echo -e "${RED}Installing SKHD...${RESET}"
-bash ~/Downloads/MacOS-Ricing/skhd.sh || { echo "Error installing SKHD"; exit 1; }
-sleep 5
+bash ~/Downloads/MacOS-Ricing/skhd.sh &
 
 echo -e "${RED}Installing Yabai...${RESET}"
-bash ~/Downloads/MacOS-Ricing/yabai.sh || { echo "Error installing Yabai"; exit 1; }
-sleep 5
+bash ~/Downloads/MacOS-Ricing/yabai.sh &
+
+wait
 
 echo -e "${RED}All installations are complete!${RESET}"
